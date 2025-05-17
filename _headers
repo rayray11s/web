@@ -1,3 +1,9 @@
 /*.glb
   Content-Type: model/gltf-binary
   Access-Control-Allow-Origin: *
+/*.hdr
+  Content-Type: image/vnd.radiance
+  Access-Control-Allow-Origin: *
+/*.exr
+  Content-Type: image/aces
+  Access-Control-Allow-Origin: *
